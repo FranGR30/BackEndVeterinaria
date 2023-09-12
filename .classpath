@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="FichaTecnica/StrategyAdapter_Exportar/|Animal/|Notificador/|Notificador/StrategyAdapter_Notificador/|Seguimiento/|Seguimiento/Visita/|Usuario/|Animal/State_CondicionMedica/|Usuario/Adapter_Autenticador/|FichaTecnica/|Seguimiento/State_EstadoSeguimiento/" kind="src" path="src">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
